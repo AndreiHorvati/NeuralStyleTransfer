@@ -1,11 +1,11 @@
 # NeuralStyleTransfer
 
-My Code - ImageLoader class
-        - CustomStyleLoss class
-        - Menu class
-        - StyleTransfer class - get_model method
-        - StyleTransferSettings class
-        - StyleTransferUtils class
+My Code - ImageLoader class__
+        - CustomStyleLoss class__
+        - Menu class__
+        - StyleTransfer class - get_model method__
+        - StyleTransferSettings class__
+        - StyleTransferUtils class__
        
 Internet Code - ContentLoss class
               - StyleLoss class
